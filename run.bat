@@ -1,0 +1,1 @@
+java -jar schemaSpy_5.0.0.jar -dp "jtds-1.3.1.jar" -t mssql-jtds  -db DATABASE_NAME -host "172.16.16.1" -port 4133 -u "username" -p "password" -o output -s "schema_name"
