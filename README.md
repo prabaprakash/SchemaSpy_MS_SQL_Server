@@ -1,6 +1,6 @@
 Pre-Requiste
 
-1. Install Graphviz - http://www.graphviz.org/Download..php
+1. Install Graphviz - http://www.graphviz.org/Download.php
   
 2. Install Java Development Kit 8/7
 
